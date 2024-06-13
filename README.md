@@ -6,4 +6,5 @@ How does it work: It randomly selects numbers between -100 and 100 and sorts the
 
 Programming of this project was started and concluded during my summer internship in BTC IT Services.
 
-Start/End date: May 21, 2024
+Start date: May 21, 2024
+End date: May 22, 2024
